@@ -1,0 +1,12 @@
+# -----------------application:configs--------------------------
+# 1.spring configs (db...)
+# 2.app configs
+# 3.log configs
+# 4.common configs
+# ---------------------------------------------------------------
+server:
+  port: 8090
+
+
+
+
